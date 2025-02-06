@@ -1,0 +1,130 @@
+/* Default styles for light mode */
+.lightmode {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.lightmode .profile-section {
+    background-color: #ffffff;
+    border-color: #f0f0f0;
+}
+
+.lightmode .about-section {
+    background-color: #ffffff;
+    border-color: #f0f0f0;
+}
+
+.lightmode .experience-section {
+    background-color: #ffffff;
+    border-color: #f0f0f0;
+}
+
+.lightmode .social-tech {
+    background-color: #ffffff;
+    border-color: #f0f0f0;
+}
+
+.lightmode .recent-project {
+    background-color: #ffffff;
+    border-color: #f0f0f0;
+}
+
+.lightmode .recent-certificates {
+    background-color: #ffffff;
+    border-color: #f0f0f0;
+}
+
+.lightmode .experience-dot {
+    background-color: #000000;  /* Set background-color here */
+    border-color: #f0f0f0; /* Border color if needed */
+}
+
+.lightmode .name {
+    color: #000000;
+}
+
+.lightmode .location,
+.lightmode .role {
+    color: #4A4A4A;
+}
+
+.lightmode .email-btn {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+/* Paragraphs in light mode */
+.lightmode p {
+    color: #333333; /* Darker gray for better contrast in light mode */
+}
+
+/* Dark mode styles */
+.darkmode {
+    background-color: #1a202c;
+    color: #ffffff;
+}
+
+.darkmode .profile-section {
+    background-color: #2d3748;
+    border-color: #4A5568;
+}
+
+.darkmode .about-section {
+    background-color: #2d3748;
+    border-color: #4A5568;
+}
+
+.darkmode .experience-section {
+    background-color: #2d3748;
+    border-color: #4A5568;
+}
+
+.darkmode .social-tech {
+    background-color: #2d3748;
+    border-color: #4A5568;
+}
+
+.darkmode .recent-project {
+    background-color: #2d3748;
+    border-color: #4A5568;
+}
+
+.darkmode .recent-certificates {
+    background-color: #2d3748;
+    border-color: #4A5568;
+}
+
+.darkmode .experience-dot {
+    background-color: #ffffff;
+    border-color: #ffffff; /* White border */
+}
+
+.darkmode .name {
+    color: #ffffff;
+}
+
+.darkmode .location,
+.darkmode .role {
+    color: #cbd5e0;
+}
+
+.darkmode .email-btn {
+    background-color: #ffffff;
+    color: #1a202c;
+}
+
+/* Paragraphs in dark mode */
+.darkmode p {
+    color: #e2e8f0; /* Light gray text for better visibility in dark mode */
+}
+
+/* Additional color adjustments */
+.darkmode .section-title {
+    color: #ffffff;
+}
+
+.darkmode .description,
+.darkmode .socials,
+.darkmode .tech-stack {
+    color: #e2e8f0;
+}
